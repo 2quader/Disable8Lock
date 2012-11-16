@@ -1,7 +1,7 @@
-Disable8Lock disables/enables the Win8 Lockscreen. [Download now](https://github.com/downloads/2quader/JumpDown/Disable8Lock.exe)
+Disable8Lock disables/enables the Win8 Lockscreen. [Download now](https://github.com/downloads/2quader/Disable8Lock/disable8lock.exe)
 
 # Screenshot
-![Screenshot1](https://github.com/downloads/2quader/JumpDown/screenshot.png)
+![Screenshot1](https://github.com/downloads/2quader/Disable8Lock/screenshot.png)
 
 # License
 Software and code are free. You are allowed to use, modify and publish them. Do whatever you want. Use at your own risk.
